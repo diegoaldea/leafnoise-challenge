@@ -24,3 +24,5 @@ def text_reverser(text):
 text = input("Te invierto lo que escribas a continuacion: ")
 
 print(text_reverser(text))
+
+input("Enter para cerrar")

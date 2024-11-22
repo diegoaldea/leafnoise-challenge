@@ -33,3 +33,5 @@ if brackets_detector(text):
     print("parentesis balanceados")
 else:
     print("parentesis NO balanceados")
+
+input("Enter para cerrar")

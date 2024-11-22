@@ -20,3 +20,5 @@ if is_palindrome(text):
     print("El texto es palíndromo")
 else:
     print("El texto NO es palíndromo")
+
+input("Enter para cerrar")
